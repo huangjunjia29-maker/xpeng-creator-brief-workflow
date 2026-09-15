@@ -1,0 +1,14 @@
+# Local working data and generated documents
+.work/
+inputs/
+outputs/
+*.docx
+*.pdf
+~$*
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
