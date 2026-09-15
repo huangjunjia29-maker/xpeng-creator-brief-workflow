@@ -1,16 +1,22 @@
 # 海外创作者 Creator Brief｜主题
 
+生成前提（成稿删除）：已先提供编号候选角度，并由用户选定三个；或用户明确要求跳过选择直接生成。用选定角度编写本模板，不预先生成完整Brief。候选阶段用精简表格列观点、洞察、事实支点、拍法和一句英文Hook即可。
+
+使用说明（成稿删除）：默认围绕事件自身写不同角度。只有确有合适延展话题时，才在原点信息中区分重点与延展，并给相应角度加标签；不要固定套用一个重点加两个延展。延展角度也须从重点事件开场。中英文同步适配。
+
 ## 中文版
 
 ### 1. 原点信息
 
-当天事件、重要事实和必要配套背景；分别注明历史合作与最新进展。
+当天事件、重要事实与时间节点。有延展话题时，将本段标为“重点话题”。
+
+延展话题（可选，无则删除）：配套合作和全球化等背景；分别注明年份，以及与本次重点事件的关联。
 
 ### 2. 信息点拆解
 
-1. 官方事实 = 传播意义：品牌能力或立场，以及观众为何在意。
-2. 第二个独立事实支点 = 不同层面的传播意义。
-3. 第三个独立事实支点 = 不同层面的传播意义。
+1. 事实支点 = 传播意义。
+2. 不同层面的事实支点 = 传播意义；如属延展，标明与事件的关系。
+3. 不同层面的事实支点 = 传播意义；如属延展，标明与事件的关系。
 
 ### 3. 二创切入角度
 
@@ -22,13 +28,13 @@
 
 前3秒英文 Hook 候选：通常三条。长句拆成短开头和后续一句。
 
-#### 角度2：第二个独立观点
+#### 角度2：第二个不同层面的观点
 
-叙事、素材、拍法及英文 Hook 候选。
+围绕事件展开叙事，提供素材、拍法及英文Hook候选。如属延展方向，明确标注，并从重点事件开场再引出背景。
 
-#### 角度3：第三个独立观点
+#### 角度3：第三个不同层面的观点
 
-叙事、素材、拍法及英文 Hook 候选。
+围绕事件展开叙事，提供素材、拍法及英文Hook候选。如属延展方向，明确标注，并从重点事件开场再引出背景。
 
 必带话题词：填写当天明确要求。建议话题词：另列。
 
@@ -45,27 +51,29 @@
 
 ### 1. Key briefing fact
 
-The current event, key facts and relevant historical context.
+The current event, key facts and timing. Label this Primary focus when supporting topics are also included.
+
+Supporting context (optional; omit when absent): relevant background, its date and connection to the event.
 
 ### 2. Core message to communicate
 
-Three distinct factual foundations, each developed into a communication point.
+Distinct factual foundations and their communication value. Identify any extension and its connection to the event; do not require two supporting topics.
 
 ### 3. Content angles for inspiration
 
 Audience insights and emotions aligned with the Chinese version.
 
-#### Angle 1: A specific viewpoint
+#### Angle 1: A specific viewpoint on the current event
 
 Story, evidence, execution and suggested caption and hook directions.
 
 #### Angle 2: A distinct viewpoint
 
-Story, evidence, execution and suggested caption and hook directions.
+Develop a different perspective on the event, with evidence, execution and hooks. If this is an extension, label it and open with the primary event before introducing the background.
 
-#### Angle 3: A distinct viewpoint
+#### Angle 3: Another distinct viewpoint
 
-Story, evidence, execution and suggested caption and hook directions.
+Develop a different perspective on the event, with evidence, execution and hooks. If this is an extension, label it and open with the primary event before introducing the background.
 
 Required hashtags and suggested additions, labelled separately.
 
