@@ -1,8 +1,10 @@
 # 海外创作者 Creator Brief｜主题
 
-生成前提（成稿删除）：已先提供编号候选角度，并由用户选定三个；或用户明确要求跳过选择直接生成。用选定角度编写本模板，不预先生成完整Brief。候选阶段用精简表格列观点、洞察、事实支点、拍法和一句英文Hook即可。
+生成前提（成稿删除）：已先提供编号候选角度，并由用户选定；或用户明确要求跳过选择、委托补选。通常三个，最终数量以用户选择为准。按所选数量增减下方信息点和中英文角度模块，四个就保留四个。保留候选与成稿编号映射供后续改稿核对。候选阶段用简洁编号段落或表格列观点、洞察、事实支点、拍法和一句英文Hook即可。
 
 使用说明（成稿删除）：默认围绕事件自身写不同角度。只有确有合适延展话题时，才在原点信息中区分重点与延展，并给相应角度加标签；不要固定套用一个重点加两个延展。延展角度也须从重点事件开场。中英文同步适配。
+
+改稿说明（成稿删除）：替换角度时同步原点信息、信息点拆解、洞察、叙事、拍法、Hook和平台建议。补充视频先核看，保留用户指定表达；补充片段与主事件分别交代，不凭剪辑推断同一现场。
 
 ## 中文版
 
@@ -17,6 +19,8 @@
 1. 事实支点 = 传播意义。
 2. 不同层面的事实支点 = 传播意义；如属延展，标明与事件的关系。
 3. 不同层面的事实支点 = 传播意义；如属延展，标明与事件的关系。
+
+按选定数量继续增加或删减，覆盖全部角度。
 
 ### 3. 二创切入角度
 
@@ -37,6 +41,8 @@
 围绕事件展开叙事，提供素材、拍法及英文Hook候选。如属延展方向，明确标注，并从重点事件开场再引出背景。
 
 必带话题词：填写当天明确要求。建议话题词：另列。
+
+需要第四个或更多角度时，在话题词之前复制角度模块，并同步英文版；三个模块不是数量上限。
 
 ### 4. 注意事项
 
@@ -79,7 +85,7 @@ Required hashtags and suggested additions, labelled separately.
 
 ### 4. Attention
 
-Timing, scope, claim qualifications and asset context.
+Timing, scope, claim qualifications and asset context. Distinguish event, HQ publication and brief preparation dates; distinguish regional synchronization guidance from creator assignments. The number and perspectives of the English angles must match the final Chinese selection.
 
 - For TikTok
 - For INS
