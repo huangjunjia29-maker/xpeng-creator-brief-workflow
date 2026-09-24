@@ -4,13 +4,15 @@
 
 使用说明（成稿删除）：默认围绕事件自身写不同角度。只有确有合适延展话题时，才在原点信息中区分重点与延展，并给相应角度加标签；不要固定套用一个重点加两个延展。延展角度也须从重点事件开场。中英文同步适配。
 
+篇幅说明（成稿删除）：原点信息保留总部资料中的完整事件原文。从信息点拆解开始尽量简洁，采用“一事一句”；每个角度用一小段观点加一小段拍法，同一限定只解释一次。用户要求角度标题和Hook不变时，只锁定标题和Hook，不锁定角度正文。
+
 改稿说明（成稿删除）：替换角度时同步原点信息、信息点拆解、洞察、叙事、拍法、Hook和平台建议。补充视频先核看，保留用户指定表达；补充片段与主事件分别交代，不凭剪辑推断同一现场。
 
 ## 中文版
 
 ### 1. 原点信息
 
-当天事件、重要事实与时间节点。有延展话题时，将本段标为“重点话题”。
+完整保留总部资料中的事件原文、重要事实与时间节点，不为精简而改写或删减。有延展话题时，将本段标为“重点话题”。
 
 延展话题（可选，无则删除）：配套合作和全球化等背景；分别注明年份，以及与本次重点事件的关联。
 
@@ -20,7 +22,7 @@
 2. 不同层面的事实支点 = 传播意义；如属延展，标明与事件的关系。
 3. 不同层面的事实支点 = 传播意义；如属延展，标明与事件的关系。
 
-按选定数量继续增加或删减，覆盖全部角度。
+按选定数量继续增加或删减，原则上每个入选角度对应一个清晰的信息点；确实共用同一事实基础时可以合并。
 
 ### 3. 二创切入角度
 
@@ -57,7 +59,7 @@
 
 ### 1. Key briefing fact
 
-The current event, key facts and timing. Label this Primary focus when supporting topics are also included.
+Retain the complete English event wording, necessary context and timing from the HQ material. Do not shorten it for concision. Label this Primary focus when supporting topics are also included.
 
 Supporting context (optional; omit when absent): relevant background, its date and connection to the event.
 
