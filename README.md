@@ -8,6 +8,7 @@
 - [老板修改学习](skills/xpeng-creator-brief/references/editor-learning.md)：2026年9月15日香港兆瓦闪充站案例的修改依据。
 - [选择与素材迭代学习](skills/xpeng-creator-brief/references/selection-and-media-learning.md)：可变角度数量、原话保留、编号映射与补充视频改稿。
 - [本地价值与角度合并学习](skills/xpeng-creator-brief/references/local-value-and-angle-merging.md)：欧洲购买认知、具体价值表达，以及按用户要求优先合并国内方向、删除重复角度。
+- [近期题材与证据学习](skills/xpeng-creator-brief/references/recent-topics-and-evidence.md)：Robotaxi竞品参照、GX中东实测和USCALE推荐排名案例，区分用户选择与编辑判断。
 - [Brief 内容模板](templates/creator-brief.md)：四大栏目及中英文顺序。
 
 仓库保存可复用工作流和经过整理的学习记录。原始传播资料、个人路径、每日 Word 产物及临时文件不纳入版本管理。案例记录包含业务写作经验，建议使用私有仓库。
